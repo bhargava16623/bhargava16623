@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhargava16623
 - 👀 I’m interested in ... web development and open source contribution
 - 🌱 I’m currently learning ... web development
-- 💞️ I’m looking to collaborate on ... open source projects
+- 💞️ I’m looking to collaborate on ... open source projects and any web development projects
 - 📫 How to reach me ... bhargava16623@gmail.com
 
 <!---
