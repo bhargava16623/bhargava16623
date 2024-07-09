@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhargava16623
 - 👀 I’m interested in ... web development and open source contribution
-- 🌱 I’m currently learning ... React Js
+- 🌱 I’m currently learning ... Docker
 - 💞️ I’m looking to collaborate on ...  web development projects
 - 📫 How to reach me ... bhargava16623@gmail.com
 
