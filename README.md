@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhargava16623
-- 👀 I’m interested in ... web development and open source contribution
-- 🌱 I’m currently learning ... Docker
-- 💞️ I’m looking to collaborate on ...  web development projects
+- 👀 I’m interested in ... Quantization, CUDA kernels and Open source contribution
+- 🌱 I’m currently learning ... Fine-tuning of LLm's and Inference Engineering 
+- 💞️ I’m looking to collaborate on ...  LLM Inference related projects
 - 📫 How to reach me ... bhargava16623@gmail.com
 
 <!---
